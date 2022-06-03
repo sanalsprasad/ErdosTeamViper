@@ -1,2 +1,19 @@
 # ErdosTeamViper
 Team Viper Erdos Bootcamp Project 
+
+## Project Summary
+- Goal is to predict the cuisine type of a recipe based on the list of ingredients.
+- Data set is from an old Kaggle competition: <https://www.kaggle.com/competitions/whats-cooking>
+
+## Results
+The most accurate model was a Linear Support Vector Machine with C = 0.1 using the train_trimmed data set. Note: only key_words_data and train_trimmed were used for this determination.
+
+## Repository Layout
+### Data Folder
+- Contains three cleaned training data sets: key_words_data.zip, removed_adj_data.zip, and train_trimmed.csv
+- Original training data is contained in train.json
+- Jupyter notebooks are related to obtaining the cleaned data sets and exploring the data.
+
+### Models Folder
+- Our search for the best model (based on overall accuracy).
+- Jupyter notebooks showcase the results of various models.
