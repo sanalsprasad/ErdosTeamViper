@@ -15,5 +15,5 @@ The most accurate model was a Linear Support Vector Machine with C = 0.1 using t
 - Jupyter notebooks are related to obtaining the cleaned data sets and exploring the data.
 
 ### Models Folder
-- Our search for the best model (based on overall accuracy).
+- Our search for the best model (based on overall accuracy) using k-fold cross-validation.
 - Jupyter notebooks showcase the results of various models.
