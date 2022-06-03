@@ -1,5 +1,5 @@
 # ErdosTeamViper
-This is Team Viper's final project for the data science bootcamp organized by the Erdos institute. Our team members are Cynthia Lester, Sanal Shivaprasad, and Ignat Soroko.  
+This is Team Viper's final project for the data science bootcamp organized by the Erdos institute. Our team members are Cynthia Lester, Sanal Shivaprasad, and Ignat Soroko.  Click [here](https://raw.githubusercontent.com/sanalsprasad/ErdosTeamViper/main/Presentation/video.mp4)  for a 5-minute video presentation of our results. 
 
 ## Project Summary
 - Goal is to predict the cuisine type of a recipe based on the list of ingredients.
@@ -17,3 +17,6 @@ The most accurate model was a Linear Support Vector Machine with C = 0.1 using t
 ### Models Folder
 - Our search for the best model (based on overall accuracy) using k-fold cross-validation.
 - Jupyter notebooks showcase the results of various models.
+
+### Presentation Folder
+- Contains a 5-minute video presentation of our results and the slides. 
