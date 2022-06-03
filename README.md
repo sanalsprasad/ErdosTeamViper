@@ -1,5 +1,5 @@
 # ErdosTeamViper
-This is Team Viper's final project for the data science bootcamp organized by the Erdos institute. Our team members are Cynthia Lester, Sanal Shivaprasad and Ignat Soroko.  
+This is Team Viper's final project for the data science bootcamp organized by the Erdos institute. Our team members are Cynthia Lester, Sanal Shivaprasad, and Ignat Soroko.  
 
 ## Project Summary
 - Goal is to predict the cuisine type of a recipe based on the list of ingredients.
