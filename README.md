@@ -19,4 +19,4 @@ The most accurate model was a Linear Support Vector Machine with C = 0.1 using t
 - Jupyter notebooks showcase the results of various models.
 
 ### Presentation Folder
-- Contains a 5-minute video presentation of our results and the slides. 
+- Contains a 5-minute video presentation of our results, the slides and an executive summary. 
