@@ -3,7 +3,7 @@
 ## Data Set and Problem
 
 - Goal is to predict the cuisine type of a recipe based on the list of ingredients.
-- Data set has ingredient lists and cuisine types for various dishes. It is from an old Kaggle competition <https://www.kaggle.com/competitions/whats-cooking>. About Kaggle’s provided training data :
+- Data set has ingredient lists and cuisine types for various dishes. It is from an old Kaggle competition <https://www.kaggle.com/competitions/whats-cooking>. About Kaggle’s provided training data:
 
     + The data is in a json file and contains a table with three columns: id, cuisine and ingredients.
     + The cuisine column contains strings. There are 20 different cuisines of which italian is listed the most (7,838 times) and brazilian is listed the least (467 times).
